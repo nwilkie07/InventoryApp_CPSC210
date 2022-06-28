@@ -1,0 +1,16 @@
+{
+  "Items": {
+    "12": {
+      "Name": "Chair"
+    },
+    "3": {
+      "Type": "furniture",
+      "Length": 4.1,
+      "Height": 7,
+      "ID": 3,
+      "Width": 8,
+      "Name": "Desk"
+    }
+  },
+  "Name": "First Inventory"
+}
